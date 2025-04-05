@@ -7,17 +7,17 @@
 
 # 연산자
 
-[07강 연산자 1(우선순위와 결합성)](https://www.notion.so/07-1-15f02f7e47128056a746d7fc4dc72317?pvs=21) 
+[07강 연산자 1(우선순위와 결합성)](https://github.com/SansuSunbe/PYTHON/blob/main/memo/07%EA%B0%95%20%EC%97%B0%EC%82%B0%EC%9E%90%201(%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%EC%99%80%20%EA%B2%B0%ED%95%A9%EC%84%B1).md) 
 
-[08강 연산자 2(조건식)](https://www.notion.so/08-2-16202f7e471280c19d24ca69688088ef?pvs=21) 
+[08강 연산자 2(조건식)](https://github.com/SansuSunbe/PYTHON/blob/main/memo/08%EA%B0%95%20%EC%97%B0%EC%82%B0%EC%9E%90%202(%EC%A1%B0%EA%B1%B4%EC%8B%9D).md) 
 
-[09강 연산자 3(비트연산)](https://www.notion.so/09-3-17c02f7e47128036b68ac44e8888b34c?pvs=21) 
+[09강 연산자 3(비트연산)](https://github.com/SansuSunbe/PYTHON/blob/main/memo/09%EA%B0%95%20%EC%97%B0%EC%82%B0%EC%9E%90%203(%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0).md) 
 
-[10강 삼항 연산자](https://www.notion.so/10-1b402f7e471280cfadd0c71144d02a75?pvs=21) 
+[10강 삼항 연산자](https://github.com/SansuSunbe/PYTHON/blob/main/memo/10%EA%B0%95%20%EC%82%BC%ED%95%AD%20%EC%97%B0%EC%82%B0%EC%9E%90.md) 
 
 # 변수
 
-[03강 변수의 선언과 자료형](https://www.notion.so/03-14c02f7e471280ce9294e2615d2776ad?pvs=21) 
+[03강 변수의 선언과 자료형](https://github.com/SansuSunbe/PYTHON/blob/main/memo/03%EA%B0%95%20%EB%B3%80%EC%88%98%EC%9D%98%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%EC%9E%90%EB%A3%8C%ED%98%95.md) 
 
 # 파이썬 주요 컬렉션
 
@@ -407,7 +407,7 @@ print(di, type(di))
 
 - 데이터를 파일에 저장하거나 파일로부터 읽어오는 과정
 
-[26강 파일 입.출력](https://www.notion.so/26-1c402f7e471280c0af77c378a0544386?pvs=21) 
+[26강 파일 입.출력](https://github.com/SansuSunbe/PYTHON/blob/main/memo/26%EA%B0%95%20%ED%8C%8C%EC%9D%BC%20%EC%9E%85%20%EC%B6%9C%EB%A0%A5.md) 
 
 ## CSV(Comma-Separated Values) 파일 입출력
 
@@ -440,7 +440,7 @@ with open("data.csv", "w", newline = '') as f :
     writer.writerow(["고길동", 15, "학생"])
 ```
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/66624a57-068e-43be-a639-359e81609537)
 
 ## 파일 읽기
 
