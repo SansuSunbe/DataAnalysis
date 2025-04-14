@@ -72,13 +72,13 @@
 
 - 같은 크기의 행렬에서 같은 위치의 원소를 더함
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/ac0e4011-148d-43bf-8c09-e3385db39875)
 
 ## 행렬 곱
 
 - 두 행렬 곱 첫 번째 행렬의 행과 두 번째 행렬의 열에 대응하는 원소들을 곱하고 더한 값
 
-![image.png](image%201.png)
+![image 1](https://github.com/user-attachments/assets/23629c3b-2fcb-4503-9e98-39d139a9f5c3)
 
 ## 전치 행렬
 
@@ -86,20 +86,20 @@
 - 원래 행렬의 각 원소를 표시함
 - 화살표를 이용해A[i, j] → A[j, i]로 이동하는 과정 표시
 
-![image.png](image%202.png)
+![image 2](https://github.com/user-attachments/assets/dee4f241-10f1-42d6-8277-1d8d8c548c32)
 
 ## 역 행렬
 
 - 원래 행렬과 곱했을 때 단위 행렬이 되는 행렬
 - 행렬 A와 그 역행렬 A-1을 곱하면 단위 행렬(identity Matrix)을 얻음
 
-![image.png](image%203.png)
+![image 3](https://github.com/user-attachments/assets/a6fb2f51-c853-4362-8a3e-10e6ac459f22)
 
 ## 단위 행렬
 
 - 주 대각선의 원소가 모두 1이고 나머지는 0인 행렬
 
-![image.png](image%204.png)
+![image 4](https://github.com/user-attachments/assets/192725cb-5c56-4347-9c90-f3b627b111bc)
 
 # Numpy 객체 주요 속성
 
@@ -119,8 +119,8 @@
 
 - 배열의 총 원소 수
     
-    ![image.png](image%205.png)
-    
+    ![image 5](https://github.com/user-attachments/assets/f3bb89a1-a5e8-43cf-92cd-b179f5347a67)
+
 
 ## Numpy 배열 선언
 
@@ -225,8 +225,8 @@ print('수정된 행 확인 : \n', arr_new)
 
 - 배열 간 같은 위치에 있는 요소끼리 연산
 - 연산은 요소 별로 수행
-
-![image.png](image%206.png)
+  
+![image 6](https://github.com/user-attachments/assets/b177a758-a8fb-46c8-a55f-c66959539002)
 
 ### 주의
 
