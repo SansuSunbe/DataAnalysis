@@ -250,7 +250,7 @@ plt.show()
 - Iris 데이터셋에서 petal_length와 petal_width는 강한 양의 상관 관계를 보임
 - sepal_length와 sepal_width는 약한 관계를 가짐
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/ee88537d-50c7-4f94-98cb-4f3751e7dec5)
 
 # 다변량 데이터
 
